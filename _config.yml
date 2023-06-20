@@ -59,3 +59,5 @@ plugins:
 
 
 minimal_mistakes_skin: "mint"
+
+logo: "/assets/images/image.png"
